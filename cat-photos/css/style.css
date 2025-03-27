@@ -1,0 +1,54 @@
+body {
+    margin: auto 25%;
+    text-align: center;
+    color:azure;
+    font-family: "Century";
+    background-image: linear-gradient(rgb(21, 17, 37), rgb(56, 15, 31))
+}
+
+h1 {
+    font-family: "Starborn";
+    text-align: center;
+    color:rgb(255, 233, 136);
+    letter-spacing: 6px;
+}
+
+h2 {
+    font-family: "Breamcatcher";
+    letter-spacing: 3px;
+    font-size: 20pt;
+    text-align: center;
+    color: rgb(248, 169, 255)
+}
+
+#ominous {
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+
+#relaxing {
+    width:500px;
+    display: block;
+    margin: auto;
+}
+
+#violence {
+    width:500px;
+    display: block;
+    margin: auto;
+}
+
+a {
+    color:rgb(119, 221, 252)
+}
+
+ul {
+    list-style-position: inside;
+    text-align: left;
+}
+
+ol {
+    list-style-position: inside;
+    text-align: left;
+}
