@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(19, 21, 27);
+    padding: 0;
+    margin: 0;
+  }
+  
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+
+  #image {
+    max-width: 100%;
+    max-height: auto;
+  }
+  
+  #img-div {
+   display: flex;
+   justify-content: center;
+   text-align: left;
+   flex-direction: column;
+  }
+  
+  h1 {
+    color: hwb(215 61% 13%);
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 70px;
+    font-family: "BlackChancery";
+    margin: 0px 0px -20px 0px;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #ffbb33;
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-family: "Felix Titling";
+  }
+  
+  h3 {
+    font-family: "Bebas Neue";
+    font-size: 24px;
+    letter-spacing: 4px;
+    color: #ffbb33;
+  }
+  
+  #list-gap {
+    margin: 40px 0px 20px 0px;
+  }
+  
+  p {
+    font-size: 18px;
+    font-family: "Courier New", sans-serif;
+    color: white;
+  
+  }
+  
+  #img-caption {
+    font-family: "Poor Richard";
+    color: #ffbb33;
+    margin: 8px 0px 0px 0px;
+    font-size: 18px;
+    letter-spacing: 1px;
+  }
+  
+  #blockq {
+    border-left: solid 6px #ffbb33;
+    border-spacing: 5px;
+    padding: 1px 20px 1px 20px;
+    background-color: rgb(35, 47, 80);
+  }
+  
+  #footnote {
+    font-family: "Poor Richard";
+    font-size: 24px;
+    letter-spacing: 2px;
+    color: #ffbb33;
+  }
+  
+  #blocktext {
+    font-family: "Poor Richard";
+      font-size: 24px;
+    letter-spacing: 2px;
+
+  }
+  
+  #tribute-link {
+    color: hwb(215 54% 9%);
+  }
+  
+  #tribute-link:hover {
+    color: white;
+  }
