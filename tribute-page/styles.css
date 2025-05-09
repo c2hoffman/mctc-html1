@@ -1,7 +1,7 @@
 body {
     background-color: rgb(19, 21, 27);
     padding: 0;
-    margin: 0;
+    margin: 0in 0.5in 0.5in 0.5in;
   }
   
 main {
@@ -26,9 +26,9 @@ main {
     color: hwb(215 61% 13%);
     text-align: center;
     letter-spacing: 3px;
-    font-size: 70px;
+    font-size: 90px;
     font-family: "BlackChancery";
-    margin: 0px 0px -20px 0px;
+    margin: 5px 0px -15px 0px;
   }
   
   h2 {
@@ -60,7 +60,7 @@ main {
   #img-caption {
     font-family: "Poor Richard";
     color: #ffbb33;
-    margin: 8px 0px 0px 0px;
+    margin: 8px 0px 8px 0px;
     font-size: 18px;
     letter-spacing: 1px;
   }
